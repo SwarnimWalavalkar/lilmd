@@ -1,0 +1,7 @@
+[package]
+name = "lilmd"
+version = "0.1.0"
+edition = "2021"
+authors = ["Swarnim Walavalkar <swarnim.walavalkar@gmail.com>"] 
+description = "A super simple markdown compiler"
+homepage = "https://swarnimwalavalkar.com/experiments/lilmd"
